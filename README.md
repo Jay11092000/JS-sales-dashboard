@@ -11,18 +11,22 @@ Sales by Ship Mode:
 
 Explore the distribution of sales based on different shipping modes.
 Optimize logistics and delivery strategies for enhanced customer satisfaction.
+
 Sales by Subcategory:
 
 Dive into the performance of product subcategories.
 Identify top-performing subcategories and areas for product portfolio refinement.
+
 Sales by Year and Quarters:
 
 Track sales trends over different years and quarters.
 Identify seasonal patterns and plan marketing and sales initiatives accordingly.
+
 Sales by City:
 
 Gain insights into sales performance at the city level.
 Tailor marketing campaigns and inventory management based on regional demand.
+
 Sales by Region:
 
 Explore regional sales performance to inform expansion strategies.
@@ -31,6 +35,7 @@ Customer Details with Drill-Through:
 
 Drill through customer details to gain a granular view of individual customer purchasing behavior.
 Analyze customer preferences, order history, and engagement patterns.
+
 How to Use:
 
 Navigate through the various tabs and visualizations to explore sales data from different perspectives. Utilize drill-through functionalities for a deeper dive into customer-specific details.
